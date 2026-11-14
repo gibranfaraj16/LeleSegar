@@ -1,1 +1,6 @@
-
+.venv/
+.streamlit/secrets.toml
+kunci.toml
+.env
+__pycache__/
+.vscode/
